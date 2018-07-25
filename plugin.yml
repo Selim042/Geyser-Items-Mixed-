@@ -1,0 +1,4 @@
+name: GeyserItems
+main: selim.geyser.items.bukkit.GeyserItemsSpigot
+depend: [GeyserCore]
+version: 1.0.0

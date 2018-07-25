@@ -1,0 +1,16 @@
+[
+{
+  "modid": "geyseritems",
+  "name": "Geyser Items",
+  "description": "Allows plugins to create custom items.  Part of the Geyser suite.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Selim_042"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
